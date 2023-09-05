@@ -16,6 +16,8 @@ this very simple starter to build more complex projects.
 - Browse/Edit the files in `screens/*` to modify tab content
 - Build a cool app! (now that you are armed with a powerful declarative routing system)
 
+**NOTE:** If you are using this as a template, you should first do a find/replace throughout the entire project directory to replace `auto_route_app_scaffold` with your chosen project/package name.
+
 ## Contributions Welcome!
 
 I built this simple project while learning how to implement routing via Auto Route. I wanted to share a minimal distillation of a working router for others 
